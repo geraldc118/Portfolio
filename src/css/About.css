@@ -12,7 +12,7 @@ text-align: center;
 
 #about{
     font-size: 1.5rem;
-    margin-bottom: 0;
+    margin-bottom:0px;
 }
 
 .aboutTextImgContainer{
@@ -38,3 +38,7 @@ margin-right: auto;
     text-transform: uppercase;
 }
 
+.button-container{
+  display: flex;
+  justify-content: center;
+}
