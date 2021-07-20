@@ -1,0 +1,21 @@
+.text-centered{
+    text-align: center;
+}
+
+.header, .subTitle{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title{
+    font-size: 10rem;
+    padding-top: 11rem;
+}
+
+.subTitle{
+    font-size: 1.75rem;
+    padding-bottom: 18rem;;
+}
+ 

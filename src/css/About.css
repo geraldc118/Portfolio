@@ -1,0 +1,40 @@
+.title{
+font-size: 3rem;
+margin-bottom: 0;
+text-align: center;
+}
+
+#arrow{
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+
+#about{
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+
+.aboutTextImgContainer{
+  justify-content: center; 
+}
+
+.profileImgContainer{
+height: 400px;
+width: 400px;
+width:50%;
+margin-left: auto;
+margin-right: auto;
+}
+
+
+.interestsButton{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: transparent;
+    color: white;  
+    font-size: 15px;
+    text-transform: uppercase;
+}
+

@@ -1,0 +1,13 @@
+.Navbar{
+    padding: 0.5rem;
+}
+
+.navbar-start{
+    padding-right: 5rem;
+}
+
+.navbar-item{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.2rem;
+    padding-right: 1.2rem;
+}
