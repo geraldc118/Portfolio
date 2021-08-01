@@ -2,20 +2,22 @@
     text-align: center;
 }
 
-.header, .subTitle{
+.header{
     color:white;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-top: 10rem;
+    font-size: 7rem;
 }
 
 .title{
-    font-size: 10rem;
-    padding-top: 11rem;
+    font-size: 30rem;
+    padding-top: 20rem;
 }
 
 .subTitle{
-    font-size: 1.75rem;
-    padding-bottom: 18rem;;
+    font-size: 3rem;
+    padding-bottom:25rem;;
 }
  

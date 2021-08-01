@@ -1,13 +1,49 @@
-.Navbar{
-    padding: 0.5rem;
-}
-
-.navbar-start{
-    padding-right: 5rem;
-}
-
-.navbar-item{
+/* .navbar-item {
+    color: rgb(3, 3, 3);
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
     font-family: 'Montserrat', sans-serif;
-    letter-spacing: 0.2rem;
-    padding-right: 1.2rem;
-}
+  }
+  
+  /* .navbar-icon {
+    background: transparent;
+  }  */
+
+  /* .navbar-menu:active{
+    background: transparent;
+    color:purple ;
+  }
+
+  .is-active{
+    background: transparent;
+    color:purple ;
+  } */
+  
+  
+  /* .navbar-burger span{
+    background-color: white;
+  } */
+  
+  .navbar-item {
+    color: rgb(3, 3, 3);
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .navbar-menu, .navbar {
+    background: transparent;
+  }
+  
+  .navbar-item {
+    color: white;
+  }
+  
+  .navbar-burger span{
+    background-color: white;
+  }
+  
+  a.navbar-item:focus, a.navbar-item:hover {
+    color:grey;
+    background-color: transparent;
+  }

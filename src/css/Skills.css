@@ -1,6 +1,15 @@
 .title{
     font-size: 3rem;
     padding-top: 0rem;
-    margin-bottom: 0;
     text-align: center;
+    position: relative;
+    top: 0px;
+    }
+
+    .title-holder{
+        font-size: 3rem;
+        padding-top: 0rem;
+        text-align: center;
+        position: relative;
+        top: 0px;
     }

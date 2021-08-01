@@ -1,7 +1,9 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,venv
+node_modules
 
+.idea
 ### Node ###
 # Logs
 logs

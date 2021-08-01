@@ -4,6 +4,7 @@ import Home from "./Components/Home.js";
 import Navbar from "./Components/Navbar.js"
 import About from "./Components/About.js";
 import './css/App.css';
+import Footer from "./Components/Footer.js";
 
 
 function App () {
@@ -11,6 +12,7 @@ function App () {
    <Navbar />
    <Home />
    <About />
+   <Footer />
 
 
   </BrowserRouter>
