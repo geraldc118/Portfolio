@@ -1,9 +1,10 @@
 import React from "react";
+import './css/App.css';
 import { BrowserRouter } from "react-router-dom"
 import Home from "./Components/Home.js";
 import Navbar from "./Components/Navbar.js"
 import About from "./Components/About.js";
-import './css/App.css';
+import Projects from "./Components/Projects.js";
 import Footer from "./Components/Footer.js";
 
 
@@ -12,6 +13,7 @@ function App () {
    <Navbar />
    <Home />
    <About />
+   <Projects />
    <Footer />
 
 

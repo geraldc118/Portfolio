@@ -6,10 +6,38 @@
     top: 0px;
     }
 
-    .title-holder{
-        font-size: 3rem;
-        padding-top: 0rem;
-        text-align: center;
-        position: relative;
-        top: 0px;
-    }
+    .icon{
+        color: #EEEDFF;
+        width: 3em;
+        height: 3em;
+      }
+      
+      .icon:hover {
+        color: #846796
+      }
+      
+      .icon:hover ~ .iconLabel {
+        opacity: 1;
+        font-weight: bold;
+      }
+      
+      .iconWrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 30px;
+      }
+      
+      .iconLabel{
+        position: absolute;
+        font-size: 1rem;
+        color: white;
+        opacity: 0;
+      }
+      
+      #skillsContainer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        padding: 30px;
+      }
