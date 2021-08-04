@@ -14,7 +14,7 @@ In this project i used React and Bulma for the front end aswell as using Js for 
 # Approach Taken (Thought process & methods of producing it, show where you took the lead)
 I started this project when i first began my python bootcamp. i created the site just using html and css basics to begin with, but then when i came back to the site after completing my web development bootcamp i decided to change to add react to the site making it easier to build.
 
-# Visuals (Code Snippets and Screenshots)
+<!-- # Visuals (Code Snippets and Screenshots) -->
 
 # Bugs, Blockers & Wins
 
