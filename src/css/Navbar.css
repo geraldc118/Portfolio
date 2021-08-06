@@ -1,28 +1,28 @@
-/* .navbar-item {
+.navbar-item {
     color: rgb(3, 3, 3);
     text-transform: uppercase;
     letter-spacing: 0.5em;
     font-family: 'Montserrat', sans-serif;
   }
   
-  /* .navbar-icon {
+  .navbar-icon {
     background: transparent;
-  }  */
+  } 
 
-  /* .navbar-menu:active{
+  .navbar-menu:active{
     background: transparent;
     color:purple ;
   }
 
   .is-active{
     background: transparent;
-    color:purple ;
-  } */
+    color:purple;
+  } 
   
   
-  /* .navbar-burger span{
+  .navbar-burger span{
     background-color: white;
-  } */
+  }
   
   .navbar-item {
     color: rgb(3, 3, 3);

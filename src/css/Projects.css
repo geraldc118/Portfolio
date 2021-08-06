@@ -6,8 +6,7 @@
   height: 550px;
 }
 
-
-#dreamland, #hackasnack, #insbaration, #frogger{
+#project1, #project2, #insbaration, #frogger{
   background-color: white;
   border-radius: 25px;
   margin:40px;
@@ -22,6 +21,7 @@
 .projectSpiel{
   font-size: 1em;
   margin-right: 20px;
+  color: black;
 }
 
 .hackasnackMac, .insbaration {
