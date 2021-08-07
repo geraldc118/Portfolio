@@ -1,4 +1,4 @@
-https://geraldc118.github.io/portfolio/
+https://geraldc118.github.io/Portfolio/
 
 <!-- # Portfolio
 
