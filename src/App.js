@@ -15,8 +15,6 @@ function App () {
    <About />
    <Projects />
    <Footer />
-
-
   </BrowserRouter>
 
      
