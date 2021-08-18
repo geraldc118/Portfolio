@@ -13,6 +13,10 @@ module.exports = env => {
       path: path.resolve('.'),
       ...publicPath
     },
+    stats: {
+      children: false,
+    },
+  
     module: {
       rules: [
         { test: /\.(js|jsx)$/, use: 'babel-loader', exclude: /node_modules/ },
