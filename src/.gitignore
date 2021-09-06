@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,venv
 .eslintcache
 node_modules/
-.vscode
+.vscode/
 .idea
 ### Node ###
 # Logs
