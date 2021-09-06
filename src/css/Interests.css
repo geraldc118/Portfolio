@@ -9,8 +9,13 @@
     font-size: 1rem;
 }
 
-/* .card-image{
-  width:100px;
-  height:100px;
-} */
+.card-image{
+  display:flexbox;
 
+ 
+}
+
+.image{
+  width: 11rem;
+  height: 5rem;
+}

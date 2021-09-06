@@ -1,49 +1,23 @@
 .navbar-item {
-    color: rgb(3, 3, 3);
-    text-transform: uppercase;
-    letter-spacing: 0.5em;
-    font-family: 'Montserrat', sans-serif;
-  }
-  
-  .navbar-icon {
-    background: transparent;
-  } 
+  color: rgb(3, 3, 3);
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  font-family: 'Montserrat', sans-serif;
+}
 
-  .navbar-menu:active{
-    background: transparent;
-    color:purple ;
-  }
+.navbar-menu, .navbar {
+  background: transparent;
+}
 
-  .is-active{
-    background: transparent;
-    color:purple;
-  } 
-  
-  
-  .navbar-burger span{
-    background-color: white;
-  }
-  
-  .navbar-item {
-    color: rgb(3, 3, 3);
-    text-transform: uppercase;
-    letter-spacing: 0.5em;
-    font-family: 'Montserrat', sans-serif;
-  }
-  
-  .navbar-menu, .navbar {
-    background: transparent;
-  }
-  
-  .navbar-item {
-    color: white;
-  }
-  
-  .navbar-burger span{
-    background-color: white;
-  }
-  
-  a.navbar-item:focus, a.navbar-item:hover {
-    color:grey;
-    background-color: transparent;
-  }
+.navbar-item {
+  color: white;
+}
+
+.navbar-burger span{
+  background-color: white;
+}
+
+a.navbar-item:focus, a.navbar-item:hover {
+  color:grey;
+  background-color: transparent;
+}
