@@ -1,12 +1,8 @@
-.section{
-    padding-top: 30rem;
-}
-
 .TnAcademy {
-  height: 550px;
+  height: 600px;
 }
 
-#project1, #project2, #insbaration, #frogger{
+#tricknastics, #project2, #insbaration, #frogger{
   background-color: white;
   border-radius: 25px;
   margin:40px;
