@@ -51,3 +51,8 @@
     margin-top: 10px;
     margin-bottom:0px;;
 }
+
+.button {
+    background: transparent;
+    color: #4D4352;
+  }

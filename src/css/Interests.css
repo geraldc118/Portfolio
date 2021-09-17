@@ -1,3 +1,12 @@
+.interestsTitle{
+  font-size: 3rem;
+  font-weight:600;
+  padding-top: 1.5rem;
+  text-align: center;
+  position: relative;
+  top: 0px;
+  }
+
 .interestsContainer{
     display: flex;
     flex-direction: row;
@@ -15,7 +24,6 @@
  
 }
 
-.image{
-  width: 11rem;
-  height: 5rem;
-}
+/* .image{
+
+} */

@@ -11,13 +11,27 @@
     font-size: 7rem;
 }
 
-.title{
+.heroTitle{
     font-size: 30rem;
     padding-top: 20rem;
+
 }
 
-.subTitle{
+.subtitle{
     font-size: 3rem;
     padding-bottom:25rem;;
 }
- 
+
+.hero-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#heroTitle{
+  font-size: 6rem;
+}
+
+#heroSubtitle {
+  font-size: 1.75rem;
+}

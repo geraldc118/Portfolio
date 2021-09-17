@@ -6,7 +6,7 @@ import Navbar from "./Components/Navbar.js"
 import About from "./Components/About.js";
 import Projects from "./Components/Projects.js";
 import Footer from "./Components/Footer.js";
-// import Contact from "./Components/Contact";
+import Contact from "./Components/Contact";
 
 
 
@@ -16,7 +16,7 @@ function App () {
    <Header />
    <About />
    <Projects />
-   {/* <Contact /> */}
+   <Contact />
    <Footer />
   </BrowserRouter>
   );

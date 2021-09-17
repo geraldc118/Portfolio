@@ -1,12 +1,21 @@
+.projectsTitle{
+  font-size: 3rem;
+  font-weight:600;
+  padding-top: 1.5rem;
+  text-align: center;
+  position: relative;
+  top: 0px;
+  }
+
 .TnAcademy {
-  height: 600px;
+  height: 500px;
 }
 
 #tricknastics, #project2, #insbaration, #frogger{
   background-color: white;
   border-radius: 25px;
   margin:40px;
-  padding: 50px;
+  padding: 40px;
 }
 
 .projectRule{
