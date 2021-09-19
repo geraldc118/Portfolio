@@ -19,11 +19,11 @@
 }
 
 .card-image{
-  display:flexbox;
-
- 
+  display:flex;
 }
 
-/* .image{
-
-} */
+.image{
+  width:100% ;
+  height: auto;
+  margin-bottom: auto;
+}
