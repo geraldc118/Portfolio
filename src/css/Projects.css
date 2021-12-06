@@ -16,7 +16,7 @@
 }
 
 .toDoListImage{
-  height: 300px;
+  height: 350px;
 }
 
 .froggerImg{
@@ -25,7 +25,7 @@
 }
 
 
-#tricknastics, #codingBlogger, #toDoList, #snakeGame{
+#tricknastics, #codingBlogger, #toDoList, #password_generator{
   background-color: white;
   border-radius: 25px;
   margin:40px;
