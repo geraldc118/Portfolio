@@ -2,9 +2,14 @@
   "name": "portfolio",
   "version": "1.0.0",
   "description": "https://geraldc118.github.io/Portfolio/",
-  "main": "webpack.config.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build", 
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -15,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/geraldc118/Portfolio/issues"
   },
-  "homepage": "https://github.com/geraldc118/Portfolio#readme",
+  "homepage": "https://github.com/geraldc118/Portfolio",
   "dependencies": {
     "bulma": "^0.9.3",
     "components": "^0.1.0",
@@ -24,10 +29,22 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-router-dom": "^6.0.2",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.0",
     "styled": "^1.0.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^3.11.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

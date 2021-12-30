@@ -19,10 +19,9 @@
   height: 350px;
 }
 
-.froggerImg{
-  display: flex;
-  justify-content: center;
-}
+/* .password_generator{
+
+} */
 
 
 #tricknastics, #codingBlogger, #toDoList, #password_generator{
