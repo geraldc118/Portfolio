@@ -11,7 +11,7 @@ import Contact from "./Components/Contact";
 
 
 function App () {
-  return (<BrowserRouter>
+  return (<BrowserRouter basename={process.env.PUBLIC_URL}>
    <Navbar />
    <Header />
    <About />
