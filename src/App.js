@@ -1,6 +1,6 @@
 import React from "react";
 import './css/App.css';
-import { BrowserRouter } from "react-router-dom"
+import { HashRouter as Router } from "react-router-dom"
 import Header from "./Components/Header.js";
 import Navbar from "./Components/Navbar.js"
 import About from "./Components/About.js";
@@ -11,14 +11,14 @@ import Contact from "./Components/Contact";
 
 
 function App () {
-  return (<BrowserRouter basename={process.env.PUBLIC_URL}>
+  return (<Router basename={process.env.PUBLIC_URL}>
    <Navbar />
    <Header />
    <About />
    <Projects />
    <Contact />
    <Footer />
-  </BrowserRouter>
+  </Router>
   );
 };
 
