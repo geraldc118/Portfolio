@@ -1,26 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3b3d8978.chunk.css",
-    "main.js": "/Portfolio/static/js/main.5bbe9426.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.5bbe9426.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.c74a019d.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.c74a019d.js.map",
-    "static/js/2.60ee7864.chunk.js": "/Portfolio/static/js/2.60ee7864.chunk.js",
-    "static/js/2.60ee7864.chunk.js.map": "/Portfolio/static/js/2.60ee7864.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.1cc263f2.css",
+    "main.js": "/Portfolio/static/js/main.33fc1347.js",
+    "static/media/CodingBlogger_Image.png": "/Portfolio/static/media/CodingBlogger_Image.cd1abf278e58c0935dc2.png",
+    "static/media/geralds_profile.png": "/Portfolio/static/media/geralds_profile.d56143524f198c1f826a.png",
+    "static/media/PyGen_logo_img.png": "/Portfolio/static/media/PyGen_logo_img.376b9a5fee0b426ab9c3.png",
+    "static/media/TnAcademy_Landingpage_Screenshot.png": "/Portfolio/static/media/TnAcademy_Landingpage_Screenshot.bd84ac817604fe6f8823.png",
+    "static/media/toDoListImage.png": "/Portfolio/static/media/toDoListImage.bef702398565fab8de9b.png",
+    "static/media/plane_over_beach.jpeg": "/Portfolio/static/media/plane_over_beach.29bd3122fdfc776b5da0.jpeg",
+    "static/media/bitcoin.jpeg": "/Portfolio/static/media/bitcoin.81f340c966efebcf590d.jpeg",
+    "static/media/rave_image.jpeg": "/Portfolio/static/media/rave_image.ca8aedf646fd9d67638d.jpeg",
+    "static/media/olympic-image.jpeg": "/Portfolio/static/media/olympic-image.83d8e8a707b1c4663a05.jpeg",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.3b3d8978.chunk.css.map": "/Portfolio/static/css/main.3b3d8978.chunk.css.map",
-    "static/js/2.60ee7864.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.60ee7864.chunk.js.LICENSE.txt",
-    "static/media/TnAcademy_Landingpage_Screenshot.bd84ac81.png": "/Portfolio/static/media/TnAcademy_Landingpage_Screenshot.bd84ac81.png",
-    "static/media/bitcoin.81f340c9.jpeg": "/Portfolio/static/media/bitcoin.81f340c9.jpeg",
-    "static/media/burger_food.01f1d4ab.jpeg": "/Portfolio/static/media/burger_food.01f1d4ab.jpeg",
-    "static/media/food.7e1c7955.jpeg": "/Portfolio/static/media/food.7e1c7955.jpeg",
-    "static/media/geralds_profile.d5614352.png": "/Portfolio/static/media/geralds_profile.d5614352.png",
-    "static/media/rave_image.ca8aedf6.jpeg": "/Portfolio/static/media/rave_image.ca8aedf6.jpeg"
+    "main.1cc263f2.css.map": "/Portfolio/static/css/main.1cc263f2.css.map",
+    "main.33fc1347.js.map": "/Portfolio/static/js/main.33fc1347.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c74a019d.js",
-    "static/js/2.60ee7864.chunk.js",
-    "static/css/main.3b3d8978.chunk.css",
-    "static/js/main.5bbe9426.chunk.js"
+    "static/css/main.1cc263f2.css",
+    "static/js/main.33fc1347.js"
   ]
 }
