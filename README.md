@@ -1,15 +1,15 @@
 https://geraldc118.github.io/Portfolio/
 
-<!-- # Portfolio
+# Portfolio
 
 # Brief
 This is a solo project i created to showcase my skills as a developer.
-# Deployed Project Link
+<!-- # Deployed Project Link -->
 
 # Overview & Concept
 The idea of this project is to showcase my abilities as a developer, with the purpose of gaining employment.
 
-# Technologies Used
+<!-- # Technologies Used
 In this project I used Html,Javascript,Bulma,Node and React. 
 
 The icons were imported from React-icons and the fonts used from fontawesome.
