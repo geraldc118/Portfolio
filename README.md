@@ -21,9 +21,9 @@ I started this project when i first began my python bootcamp. i created the site
 
 <!-- # Bugs, Blockers & Wins -->
 
-
+<!-- 
 # Future Features + Key Learnings 
-Adding new projects to the projects section to keep more projects at the top.
-
+Add new projects to the portfolio.
+ -->
 
 
