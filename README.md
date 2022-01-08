@@ -1,5 +1,3 @@
-https://geraldc118.github.io/Portfolio
-
 # Portfolio
 
 <!-- # Brief
