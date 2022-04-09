@@ -1,18 +1,16 @@
-https://geraldc118.github.io/Portfolio
-
 # Portfolio
 
-# Brief
-This is a solo project I created to showcase my skills as a developer.Showing projects from my github with links to the live projects and code.
+<!-- # Brief
+This is a solo project I created to showcase my skills as a developer.Showing projects from my github with links to the live projects and code. -->
 
 # Deployed Project Link
 https://geraldc118.github.io/Portfolio
 
 # Overview & Concept
-The idea of this project is to showcase my abilities as a developer, with the purpose of gaining employment.
+This project showcases my abilities as a developer, with the purpose of gaining employment.
 
 # Technologies Used
-In this project I used Html, Javascript, Css, react-bootstrap, Node and React using fontawesome for fonts.
+In this project I used Html,React Css,react-bootstrap, Node. Using fontawesome for fonts.
 
 
 <!--# Approach Taken (Thought process & methods of producing it, show where you took the lead)
@@ -23,9 +21,9 @@ I started this project when i first began my python bootcamp. i created the site
 
 <!-- # Bugs, Blockers & Wins -->
 
-
+<!-- 
 # Future Features + Key Learnings 
-Adding new projects to the projects section to keep more projects at the top.
-
+Add new projects to the portfolio.
+ -->
 
 
