@@ -10,7 +10,7 @@ https://geraldc118.github.io/Portfolio
 This project showcases my abilities as a developer, with the purpose of gaining employment.
 
 # Technologies Used
-In this project I used Html,React Css,react-bootstrap, Node. Using fontawesome for fonts.
+In this project I used Html,React Css,react-bootstrap,Bulma and Node. Using fontawesome for fonts.
 
 
 <!--# Approach Taken (Thought process & methods of producing it, show where you took the lead)
