@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cc263f2.css",
-    "main.js": "/static/js/main.2dd1ee42.js",
-    "static/media/CodingBlogger_Image.png": "/static/media/CodingBlogger_Image.cd1abf278e58c0935dc2.png",
-    "static/media/geralds_profile.png": "/static/media/geralds_profile.d56143524f198c1f826a.png",
-    "static/media/PyGen_logo_img.png": "/static/media/PyGen_logo_img.376b9a5fee0b426ab9c3.png",
-    "static/media/TnAcademy_Landingpage_Screenshot.png": "/static/media/TnAcademy_Landingpage_Screenshot.bd84ac817604fe6f8823.png",
-    "static/media/toDoListImage.png": "/static/media/toDoListImage.bef702398565fab8de9b.png",
-    "static/media/plane_over_beach.jpeg": "/static/media/plane_over_beach.29bd3122fdfc776b5da0.jpeg",
-    "static/media/bitcoin.jpeg": "/static/media/bitcoin.81f340c966efebcf590d.jpeg",
-    "static/media/rave_image.jpeg": "/static/media/rave_image.ca8aedf646fd9d67638d.jpeg",
-    "static/media/olympic-image.jpeg": "/static/media/olympic-image.83d8e8a707b1c4663a05.jpeg",
-    "index.html": "/index.html",
-    "main.1cc263f2.css.map": "/static/css/main.1cc263f2.css.map",
-    "main.2dd1ee42.js.map": "/static/js/main.2dd1ee42.js.map"
+    "main.css": "/Portfolio/static/css/main.1cc263f2.css",
+    "main.js": "/Portfolio/static/js/main.09868433.js",
+    "static/media/CodingBlogger_Image.png": "/Portfolio/static/media/CodingBlogger_Image.cd1abf278e58c0935dc2.png",
+    "static/media/geralds_profile.png": "/Portfolio/static/media/geralds_profile.d56143524f198c1f826a.png",
+    "static/media/PyGen_logo_img.png": "/Portfolio/static/media/PyGen_logo_img.376b9a5fee0b426ab9c3.png",
+    "static/media/TnAcademy_Landingpage_Screenshot.png": "/Portfolio/static/media/TnAcademy_Landingpage_Screenshot.bd84ac817604fe6f8823.png",
+    "static/media/toDoListImage.png": "/Portfolio/static/media/toDoListImage.bef702398565fab8de9b.png",
+    "static/media/plane_over_beach.jpeg": "/Portfolio/static/media/plane_over_beach.29bd3122fdfc776b5da0.jpeg",
+    "static/media/bitcoin.jpeg": "/Portfolio/static/media/bitcoin.81f340c966efebcf590d.jpeg",
+    "static/media/rave_image.jpeg": "/Portfolio/static/media/rave_image.ca8aedf646fd9d67638d.jpeg",
+    "static/media/olympic-image.jpeg": "/Portfolio/static/media/olympic-image.83d8e8a707b1c4663a05.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.1cc263f2.css.map": "/Portfolio/static/css/main.1cc263f2.css.map",
+    "main.09868433.js.map": "/Portfolio/static/js/main.09868433.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc263f2.css",
-    "static/js/main.2dd1ee42.js"
+    "static/js/main.09868433.js"
   ]
 }
