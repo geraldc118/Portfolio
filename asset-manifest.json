@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4cc79dc1.css",
-    "main.js": "/Portfolio/static/js/main.09868433.js",
+    "main.js": "/Portfolio/static/js/main.62b40ead.js",
     "static/media/CodingBlogger_Image.png": "/Portfolio/static/media/CodingBlogger_Image.cd1abf278e58c0935dc2.png",
     "static/media/geralds_profile.png": "/Portfolio/static/media/geralds_profile.d56143524f198c1f826a.png",
     "static/media/PyGen_logo_img.png": "/Portfolio/static/media/PyGen_logo_img.376b9a5fee0b426ab9c3.png",
@@ -13,10 +13,10 @@
     "static/media/olympic-image.jpeg": "/Portfolio/static/media/olympic-image.83d8e8a707b1c4663a05.jpeg",
     "index.html": "/Portfolio/index.html",
     "main.4cc79dc1.css.map": "/Portfolio/static/css/main.4cc79dc1.css.map",
-    "main.09868433.js.map": "/Portfolio/static/js/main.09868433.js.map"
+    "main.62b40ead.js.map": "/Portfolio/static/js/main.62b40ead.js.map"
   },
   "entrypoints": [
     "static/css/main.4cc79dc1.css",
-    "static/js/main.09868433.js"
+    "static/js/main.62b40ead.js"
   ]
 }
