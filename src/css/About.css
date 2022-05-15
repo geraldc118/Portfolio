@@ -1,0 +1,67 @@
+.title{
+    color: white;
+    font-size: 8rem;
+    padding-top: 20rem;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.fas{
+    display: flex;
+    justify-content: left;
+    height: 100px;
+    width: 100px;
+    margin-top: 0.75rem;
+}
+
+#about{
+    font-size: 1.5rem;
+    margin-bottom:0px;
+}
+
+.aboutTextImgContainer{
+  justify-content: center; 
+}
+
+.profileImgContainer{
+  height: 600px;
+  width: 600px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 0.75rem;
+}
+
+.profile_img{
+    height: 300px;
+    width: 300px;
+}
+
+
+.interestsButton{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: transparent;
+    color: white;  
+    font-size: 15px;
+    text-transform: uppercase;
+    margin:auto;
+    margin-top: 10px;
+    margin-bottom:0px;;
+}
+
+.button {
+    background: transparent;
+    color: #4D4352;
+  }
+
+  .keyword{
+      color: rgb(250, 250, 0);
+  }

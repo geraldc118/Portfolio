@@ -1,0 +1,37 @@
+.text-centered{
+    text-align: center;
+}
+
+.header{
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 10rem;
+    font-size: 7rem;
+}
+
+.heroTitle{
+    font-size: 30rem;
+    padding-top: 20rem;
+
+}
+
+.subtitle{
+    font-size: 3rem;
+    padding-bottom:25rem;;
+}
+
+.hero-body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#heroTitle{
+  font-size: 5rem;
+}
+
+#heroSubtitle {
+  font-size: 1.75rem;
+}
