@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 import React from 'react'
 import { SiGithub } from 'react-icons/si'
 import { FaRocket } from 'react-icons/fa'
@@ -7,8 +8,6 @@ import toDoListImage from '../Images/toDoListImage.png'
 import pyGen from '../Images/PyGen_logo_img.png';
 // import drumKit from '../Images/drum_kit_img';
 import '../css/Projects.css'
-
-
 
 export default function Projects() {
   return <section id="projects" className="section">
