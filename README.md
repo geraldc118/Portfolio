@@ -1,15 +1,15 @@
 # Portfolio
 
-<!-- # Brief
-This is a solo project I created to showcase my skills as a developer.Showing projects from my github with links to the live projects and code. -->
+<!-- ## Brief 
+This is a solo project I created to showcase my skills as a developer.Showing projects from my github with links to the live projects and code.  -->
 
-# Deployed Project Link
+## Deployed Project Link
 https://geraldc118.github.io/Portfolio
 
-# Overview & Concept
+## Overview & Concept
 This project showcases my abilities as a developer, with the purpose of gaining employment.
 
-# Technologies Used
+## Technologies Used
 In this project I used Html,React Css,react-bootstrap,Bulma and Node. Using fontawesome for fonts.
 
 

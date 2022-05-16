@@ -1,19 +1,50 @@
 /*jshint esversion: 6 */
-import React from 'react'
-import { SiGithub } from 'react-icons/si'
-import { FaRocket } from 'react-icons/fa'
-import Tricknastics from '../Images/TnAcademy_Landingpage_Screenshot.png'
-import codingBloggerImage from '../Images/CodingBlogger_Image.png'
-import toDoListImage from '../Images/toDoListImage.png'
+import React from 'react';
+import { SiGithub } from 'react-icons/si';
+import { FaRocket } from 'react-icons/fa';
+import Tricknastics from '../Images/TnAcademy_Landingpage_Screenshot.png';
+import Trafalgar from "../Images/Trafalgar_enterprise_screenshot.png";
+import codingBloggerImage from '../Images/CodingBlogger_img.png';
+import toDoListImage from '../Images/toDoListImage.png';
 import pyGen from '../Images/PyGen_logo_img.png';
 // import drumKit from '../Images/drum_kit_img';
-import '../css/Projects.css'
+import '../css/Projects.css';
+
 
 export default function Projects() {
   return <section id="projects" className="section">
-    <div>
-      <h1 className="projectsTitle has-text-white has-text-centered">PROJECTS</h1>
-    </div>
+      <div>
+        <h1 className="projectsTitle has-text-white has-text-centered">PROJECTS</h1>
+      </div>
+          {/* Trafalgar Enterprises */}
+    <section id="trafalgar_enterprises" className="columns is-vcentered">
+      <div className="projectImg column is-one-third">
+        <img className="trafalgar_img" src={Trafalgar} alt="trafalgar_enterprises"/>
+      </div>
+      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+        <h2 className="projectsTitle ">Trafalgar Enterprises: Sell & Convert Containers</h2>
+        <hr className="projectRule" />
+        <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
+        <br />
+        <p>This site was created using React, using Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
+        <br />
+        <div className="is-flex-direction-column">
+          <div className="is-flex">
+            <a href="https://geraldc118.github.io/Portfolio" rel="noreferrer" target="_blank">
+              <SiGithub className="projectLink" />
+            </a>
+            <p className="linkLabel">See my approach</p>
+          </div>
+          <br />
+          <div className="is-flex">
+            <a href="https://github.com/geraldc118/Portfolio" rel="noreferrer" target="_blank"> 
+              <FaRocket className="projectLink" />
+            </a>
+            <p className="linkLabel">See it live</p>
+          </div>
+        </div>
+      </div>
+    </section>
     {/* Tricknastics */}
     <section id="tricknastics" className="columns is-vcentered">
       <div className="projectImg column is-one-third">
@@ -131,6 +162,7 @@ export default function Projects() {
         </div>
       </div>
     </section>
+
 
     {/* Drum Kit */}
     {/* <section id="snakeGame" className="columns is-vcentered">
