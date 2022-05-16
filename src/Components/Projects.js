@@ -138,11 +138,11 @@ export default function Projects() {
         <img className="trafalgar_enterprises" src={pyGen} alt="trafalgar_enterprises"/>
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
-        <h2 className="projectsTitle ">trafalgar Enterprises</h2>
+        <h2 className="projectsTitle ">Trafalgar Enterprises: Sell & Convert Containers</h2>
         <hr className="projectRule" />
-        <p>Passgen generates passwords with a users inputted amount of letters, numbers and symbols and then randomizes all the characters.</p>
+        <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
         <br />
-        <p>I created this project with Python, using lists and the random module to generate random places for the characters in the generated password.</p>
+        <p>This site was created using React, using Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
         <br />
         <div className="is-flex-direction-column">
           <div className="is-flex">

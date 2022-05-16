@@ -19,7 +19,11 @@
   height: 350px;
 }
 
-#tricknastics, #codingBlogger, #toDoList, #password_generator{
+.trafalgar_image{
+  height: 350px;
+}
+
+#tricknastics, #codingBlogger, #toDoList, #password_generator, #trafalgar_enterprises{
   background-color: white;
   border-radius: 25px;
   margin:40px;
