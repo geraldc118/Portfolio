@@ -3,7 +3,7 @@ import React from 'react';
 import { SiGithub } from 'react-icons/si';
 import { FaRocket } from 'react-icons/fa';
 import Tricknastics from '../Images/TnAcademy_Landingpage_Screenshot.png';
-import Trafalgar from "../Images/Trafalgar_enterprise_screenshot.png";
+import Trafalgar from "../Images/Trafalgar_enterprise_small_screenshot.png";
 import codingBloggerImage from '../Images/CodingBlogger_img.png';
 import toDoListImage from '../Images/toDoListImage.png';
 import pyGen from '../Images/PyGen_logo_img.png';
