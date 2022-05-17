@@ -162,7 +162,35 @@ export default function Projects() {
         </div>
       </div>
     </section>
-
+      {/* Trafalgar Enterprises */}
+      <section id="trafalgar_enterprises" className="columns is-vcentered">
+      <div className="projectImg column is-one-third">
+        <img className="trafalgar_enterprises" src={pyGen} alt="trafalgar_enterprises"/>
+      </div>
+      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+        <h2 className="projectsTitle ">Trafalgar Enterprises: Sell & Convert Containers</h2>
+        <hr className="projectRule" />
+        <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
+        <br />
+        <p>This site was created using React, using Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
+        <br />
+        <div className="is-flex-direction-column">
+          <div className="is-flex">
+            <a href="https://geraldc118.github.io/Portfolio" rel="noreferrer" target="_blank">
+              <SiGithub className="projectLink" />
+            </a>
+            <p className="linkLabel">See my approach</p>
+          </div>
+          <br />
+          <div className="is-flex">
+            <a href="https://github.com/geraldc118/Portfolio" rel="noreferrer" target="_blank"> 
+              <FaRocket className="projectLink" />
+            </a>
+            <p className="linkLabel">See it live</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
     {/* Drum Kit */}
     {/* <section id="snakeGame" className="columns is-vcentered">
