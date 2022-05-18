@@ -19,7 +19,9 @@ export default function Projects() {
           {/* Trafalgar Enterprises */}
     <section id="trafalgar_enterprises" className="columns is-vcentered">
       <div className="projectImg column is-one-third">
+      <figure class="image is-1by1">
         <img className="trafalgar_img" src={Trafalgar} alt="trafalgar_enterprises"/>
+      </figure>
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
         <h2 className="projectsTitle ">Trafalgar Enterprises: Sell & Convert Containers</h2>
@@ -77,7 +79,7 @@ export default function Projects() {
     {/* Coding Blog */}
     <section id="codingBlogger" className="columns is-vcentered">
       <div className="projectImg column is-one-third">
-        <figure class="image is-5by4">
+        <figure class="image is-1by1">
           <img className="codingBloggerImage" src={codingBloggerImage} alt="codingBlogImage"/>
         </figure>
         {/* <img className="codingBloggerImage" src={codingBloggerImage} alt="codingBlogImage"/> */}
@@ -109,7 +111,9 @@ export default function Projects() {
      {/* To-Do List */}
      <section id="toDoList" className="columns is-vcentered">
       <div className="projectImg column is-one-third">
+      <figure class="image is-1by1">
         <img className="toDoListImage" src={toDoListImage} alt="toDoListImage"/>
+      </figure>
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
         <h2 className="projectsTitle ">To-Do List App: To-Do List</h2>
