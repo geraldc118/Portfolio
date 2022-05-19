@@ -32,14 +32,14 @@ export default function Projects() {
         <br />
         <div className="is-flex-direction-column">
           <div className="is-flex">
-            <a href="https://geraldc118.github.io/Portfolio" rel="noreferrer" target="_blank">
+            <a href="https://github.com/geraldc118/Trafalgar_Enterprises" rel="noreferrer" target="_blank">
               <SiGithub className="projectLink" />
             </a>
             <p className="linkLabel">See my approach</p>
           </div>
           <br />
           <div className="is-flex">
-            <a href="https://github.com/geraldc118/Portfolio" rel="noreferrer" target="_blank"> 
+            <a href="https://trafalgar-enterprises.herokuapp.com/" rel="noreferrer" target="_blank"> 
               <FaRocket className="projectLink" />
             </a>
             <p className="linkLabel">See it live</p>
