@@ -3,11 +3,10 @@ import React from 'react';
 import { SiGithub } from 'react-icons/si';
 import { FaRocket } from 'react-icons/fa';
 import Tricknastics from '../Images/TnAcademy_Landingpage_Screenshot.png';
-import Trafalgar from "../Images/Trafalgar_enterprise_small_screenshot.png";
+import Trafalgar from "../Images/trafalgar_final_image.png";
 import codingBloggerImage from '../Images/CodingBlogger_img.png';
 import toDoListImage from '../Images/toDoListImage.png';
 import pyGen from '../Images/PyGen_logo_img.png';
-// import drumKit from '../Images/drum_kit_img';
 import '../css/Projects.css';
 
 
@@ -28,7 +27,7 @@ export default function Projects() {
         <hr className="projectRule" />
         <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
         <br />
-        <p>This is a solo project I created using React, Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
+        <p>This is a solo project I created using React, useState, Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
         <br />
         <div className="is-flex-direction-column">
           <div className="is-flex">
@@ -169,37 +168,5 @@ export default function Projects() {
         </div>
       </div>
     </section>
- 
-
-    {/* Drum Kit */}
-    {/* <section id="snakeGame" className="columns is-vcentered">
-      <div className="projectImg column is-one-third">
-        <img className="snakeGame" src={} alt="Drum Kit"/>
-      </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
-        <h2 className="projectsTitle ">Drum Kit: Drum Kit App</h2>
-        <hr className="projectRule" />
-        <p>Drum Kit- Is a ui for a drum kit with sounds.</p>
-        <br />
-        <p>This was created using Javascript, Css3 and Html app that uses the sounds and images from a drum kit.</p>
-        <br />
-        <div className="is-flex-direction-column">
-          <div className="is-flex">
-            <a href="https://github.com/geraldc118/DrumKit" rel="noreferrer" target="_blank">
-              <SiGithub className="projectLink" />
-            </a>
-            <p className="linkLabel">See my approach</p>
-          </div>
-          <br />
-          <div className="is-flex">
-            <a href="https://stormy-brushlands-63997.herokuapp.com/" rel="noreferrer" target="_blank"> 
-              <FaRocket className="projectLink" />
-            </a>
-            <p className="linkLabel">See it live</p>
-          </div>
-        </div>
-      </div>
-    </section> */}
-    
   </section >
 }
