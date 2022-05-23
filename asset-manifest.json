@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.cf7a7ab5.css",
-    "main.js": "/Portfolio/static/js/main.552429df.js",
+    "main.js": "/Portfolio/static/js/main.f63fb584.js",
+    "static/media/trafalgar_final_image.png": "/Portfolio/static/media/trafalgar_final_image.c1e4e7f006e3dfef11d5.png",
     "static/media/CodingBlogger_img.png": "/Portfolio/static/media/CodingBlogger_img.2442209df5795cc51348.png",
     "static/media/geralds_profile.png": "/Portfolio/static/media/geralds_profile.d56143524f198c1f826a.png",
-    "static/media/Trafalgar_enterprise_small_screenshot.png": "/Portfolio/static/media/Trafalgar_enterprise_small_screenshot.7617a74913969711d4bc.png",
     "static/media/PyGen_logo_img.png": "/Portfolio/static/media/PyGen_logo_img.376b9a5fee0b426ab9c3.png",
     "static/media/TnAcademy_Landingpage_Screenshot.png": "/Portfolio/static/media/TnAcademy_Landingpage_Screenshot.bd84ac817604fe6f8823.png",
     "static/media/toDoListImage.png": "/Portfolio/static/media/toDoListImage.bef702398565fab8de9b.png",
@@ -14,10 +14,10 @@
     "static/media/olympic-image.jpeg": "/Portfolio/static/media/olympic-image.83d8e8a707b1c4663a05.jpeg",
     "index.html": "/Portfolio/index.html",
     "main.cf7a7ab5.css.map": "/Portfolio/static/css/main.cf7a7ab5.css.map",
-    "main.552429df.js.map": "/Portfolio/static/js/main.552429df.js.map"
+    "main.f63fb584.js.map": "/Portfolio/static/js/main.f63fb584.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7a7ab5.css",
-    "static/js/main.552429df.js"
+    "static/js/main.f63fb584.js"
   ]
 }
