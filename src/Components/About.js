@@ -24,7 +24,7 @@ export default function About() {
             <br />
             <p>I work with Javascript & Python with knowledge in both front front/back end. And have developed websites for companies and friends.</p>
             <br />
-            <p>I'm looking to transition into a career in devlopement full time. Work in a collaborative team where I can learn from others, add value and create exciting projects.</p>
+            <p>I'm looking to transition into a into a full time developer. Working in a collaborative team where I can learn from others, add value and create exciting projects.</p>
           </div>
 
           <div className="column is-one-third profileImgContainer">
