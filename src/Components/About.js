@@ -20,12 +20,11 @@ export default function About() {
         {/* about: text and image container  */}
         <div className="columns has-text-white is-vcentered is-centered">
           <div className="column is-two-thirds">
-            <p>Hi 👋  I'm Gerald. I'm a recent grad from a 0-Mastery Python Bootcamp & A Web Development Bootcamp. I am currently seeking my first junior developer role. </p>
+            <p>Hi 👋  I'm Gerald. I'm a hobby developer seeking a role as a junior developer.</p>
             <br />
-            <p >My interest in coding began years ago creating piczo sites, searching for code snippets for shiny titles without knowing I was coding. As time has developed I have seen how tech has progressed and would like to part of the future of these developements.</p>
+            <p>I work with Javascript & Python with knowledge in both front front/back end. And have developed websites for companies and friends.</p>
             <br />
-            <p></p>
-            <p>With a background in coaching elite gymnastcs, I hope to <span className="keyword">provide value for future clients</span> using a blend of technical and soft skills to deliver <span className="keyword">solutions that count</span>. I’d love to work in a collaborative team where I can learn from others, add value and contribute to exciting projects. </p>
+            <p>I,m looking to transition into a career in devlopement full time. Work in a collaborative team where I can learn from others, add value and create exciting projects.</p>
           </div>
 
           <div className="column is-one-third profileImgContainer">

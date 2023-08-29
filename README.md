@@ -12,7 +12,7 @@ This project showcases my abilities as a developer, with the purpose of gaining 
 ## Technologies Used
 In this project I used Html,React Css,react-bootstrap,Bulma and Node. Using fontawesome for fonts.
 
-
+r
 <!--# Approach Taken (Thought process & methods of producing it, show where you took the lead)
 I started this project when i first began my python bootcamp. i created the site originally just using basic html and css to begin with, but then when i came back to the site after completing my web development bootcamp i decided to remove the python packages and add react to allow the site access to the vast react library. -->
 

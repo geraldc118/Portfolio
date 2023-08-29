@@ -38,7 +38,7 @@ export default function Projects() {
           </div>
           <br />
           <div className="is-flex">
-            <a href="https://tricknasticsacademy-5bee279861a7.herokuapp.com/" rel="noreferrer" target="_blank"> 
+            <a href="https://trafalgar-enterprises.herokuapp.com/" rel="noreferrer" target="_blank"> 
               <FaRocket className="projectLink" />
             </a>
             <p className="linkLabel">See it live</p>
@@ -67,7 +67,7 @@ export default function Projects() {
           </div>
           <br />
           <div className="is-flex">
-            <a href="https://tricknasticsacademy.herokuapp.com/" rel="noreferrer" target="_blank">
+            <a href="https://tricknasticsacademy-5bee279861a7.herokuapp.com/" rel="noreferrer" target="_blank">
               <FaRocket className="projectLink" />
             </a>
             <p className="linkLabel">See it live</p>
