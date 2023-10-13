@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.d2ff8af6.css",
+    "main.css": "/Portfolio/static/css/main.eb155b07.css",
     "main.js": "/Portfolio/static/js/main.c63c91fe.js",
     "static/media/Logo-01.jpg": "/Portfolio/static/media/Logo-01.0273a6808b6f245e1e6e.jpg",
     "static/media/trafalgar_final_image.png": "/Portfolio/static/media/trafalgar_final_image.c1e4e7f006e3dfef11d5.png",
@@ -9,11 +9,11 @@
     "static/media/TnAcademy_Landingpage_Screenshot.png": "/Portfolio/static/media/TnAcademy_Landingpage_Screenshot.bd84ac817604fe6f8823.png",
     "static/media/toDoListImage.png": "/Portfolio/static/media/toDoListImage.bef702398565fab8de9b.png",
     "index.html": "/Portfolio/index.html",
-    "main.d2ff8af6.css.map": "/Portfolio/static/css/main.d2ff8af6.css.map",
+    "main.eb155b07.css.map": "/Portfolio/static/css/main.eb155b07.css.map",
     "main.c63c91fe.js.map": "/Portfolio/static/js/main.c63c91fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2ff8af6.css",
+    "static/css/main.eb155b07.css",
     "static/js/main.c63c91fe.js"
   ]
 }
