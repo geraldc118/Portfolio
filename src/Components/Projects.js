@@ -52,7 +52,7 @@ export default function Projects() {
       </figure>
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
-        <h2 className="projectsTitle ">Trafalgar Enterprises: Sell & Convert Containers</h2>
+        <h2 className="projectsTitle ">Trafalgar Enterprises</h2>
         <hr className="projectRule" />
         <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
         <br />
@@ -112,7 +112,7 @@ export default function Projects() {
         </figure>
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
-        <h2 className="projectsTitle ">Coding Blogger: Progress Tracker.</h2>
+        <h2 className="projectsTitle ">Coding Blogger</h2>
         <hr className="projectRule" />
         <p>Coding Blogger is a responsive, full stack app formed of a Javascript, EJS frontend and a nodeJs backend talking to a Mongodb Database. Users can view posts from the blog, each post shows a preview and has the function to open the content in another window.</p>
         <br />
@@ -143,7 +143,7 @@ export default function Projects() {
       </figure>
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
-        <h2 className="projectsTitle ">To-Do List App: To-Do List</h2>
+        <h2 className="projectsTitle ">To-Do List</h2>
         <hr className="projectRule" />
         <p>To-Do List is a responsive, full stack app formed of a Javascript, EJS frontend and a nodeJs backend talking to a Mongodb Database. </p>
         <br />

@@ -1,10 +1,10 @@
 import React from 'react'
-import { useState } from 'react'
-import Interests from './Interests'
+// import { useState } from 'react'
+// import Interests from './Interests'
 import '../css/About.css'
 
 export default function About() {
-  const [interests, showInterests] = useState(false)
+  // const [interests, showInterests] = useState(false)
 
   return <section id="about" className="section">
     <div /*about section container*/>
@@ -31,9 +31,9 @@ export default function About() {
       {/* <div className="has-text-centered mt-3">
         <button onClick={() => showInterests(!interests)} className="button has-text-white mb-4" >Tell me more</button>
       </div> */}
-      <div style={{ display: interests ? '' : 'none' }} >
+      {/* <div style={{ display: interests ? '' : 'none' }} >
         <Interests />
-      </div>
+      </div> */}
     </div>
   </section>
 }
