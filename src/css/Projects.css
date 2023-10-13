@@ -8,7 +8,7 @@
   }
 
 .TnAcademy {
-  height: 400px;
+  height: 100%;
 }
 
 .codingBloggerImage{
@@ -51,14 +51,6 @@
 .projectImg{
   width: auto;
 }
-
-.hackasnackMac, .insbaration {
-  display: flex;
-  flex-direction: column;
-  padding: 30px;
-  justify-items: center;
-}
-
 
 .projectLink{
   color:#cd89fd;

@@ -110,7 +110,6 @@ export default function Projects() {
         <figure class="image is-1by1">
           <img className="codingBloggerImage" src={codingBloggerImage} alt="codingBlogImage"/>
         </figure>
-        {/* <img className="codingBloggerImage" src={codingBloggerImage} alt="codingBlogImage"/> */}
       </div>
       <div className="column card-content is-two-thirds has-text-justified projectSpiel">
         <h2 className="projectsTitle ">Coding Blogger: Progress Tracker.</h2>

@@ -21,14 +21,10 @@ header{
     width: 300px;
 }
 
-.heroTitle{
-    font-size: 30rem;
-    padding-top: 20rem;
-}
 
 .subtitle{
     font-size: 3rem;
-    padding-bottom:5rem;;
+    padding-bottom:4rem;;
 }
 
 .hero-body{
@@ -38,7 +34,7 @@ header{
 }
 
 #heroTitle{
-  font-size: 5rem;
+  font-size: 4.5rem;
 }
 
 #heroSubtitle {
