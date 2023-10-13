@@ -11,11 +11,10 @@ export default function Interests() {
   return <section id="interests" className="section is-small">
     <h1 className="interestsTitle has-text-centered ">INTERESTS</h1>
     <div className="interestsContainer" >
-      <div className="card music">
+      <div className="card music column">
         <div className="card-image">
           <figure className="image is-5by3">
             <img src={rave} alt="" width="300" height="300">
-
             </img>
           </figure>
         </div>
@@ -25,7 +24,7 @@ export default function Interests() {
           </div>
         </div>
       </div>
-      <div className="card bitcoin">
+      <div className="card bitcoin column">
         <div className="card-image">
           <figure className="image is-5by3">
             <img src={bitcoin} alt="" width="600" height="300">
@@ -38,7 +37,7 @@ export default function Interests() {
           </div>
         </div>
       </div>
-      <div className="card travelling">
+      <div className="card travelling column">
         <div className="card-image">
           <figure className="image is-5by3">
             <img src={Plane} alt="plane">
@@ -51,7 +50,7 @@ export default function Interests() {
           </div>
         </div>
       </div>
-      <div className="card sport">
+      <div className="card sport column">
         <div className="card-image">
           <figure className="image is-5by3">
             <img src={sport} alt="olympic_logo">

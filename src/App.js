@@ -7,6 +7,7 @@ import About from "./Components/About.js";
 import Projects from "./Components/Projects.js";
 import Footer from "./Components/Footer.js";
 import Contact from "./Components/Contact";
+import Skills from "./Components/Skills";
 
 
 
@@ -16,6 +17,7 @@ function App () {
    <Header />
    <About />
    <Projects />
+   <Skills />
    <Contact />
    <Footer />
   </Router>
