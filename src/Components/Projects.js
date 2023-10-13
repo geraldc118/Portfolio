@@ -6,7 +6,7 @@ import Tricknastics from '../Images/TnAcademy_Landingpage_Screenshot.png';
 import Trafalgar from "../Images/trafalgar_final_image.png";
 import codingBloggerImage from '../Images/CodingBlogger_img.png';
 import toDoListImage from '../Images/toDoListImage.png';
-import pyGen from '../Images/PyGen_logo_img.png';
+import aristoski from '../Images/Logo-01.jpg';
 import '../css/Projects.css';
 
 
@@ -15,6 +15,35 @@ export default function Projects() {
       <div>
         <h1 className="projectsTitle has-text-white has-text-centered">PROJECTS</h1>
       </div>
+{/* Aristoski Website */}
+      <section id="aristoski" className="columns is-vcentered">
+      <div className="projectImg column is-one-third">
+        <img className="aristoski" src={aristoski} alt="aristoski_logo"/>
+      </div>
+      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+        <h2 className="projectsTitle">Aristoski Website</h2>
+        <hr className="projectRule"/>
+        <p>This is an artist page for rapper Aristoski who wanted a page to display his upcoming release.</p>
+        <br />
+        <p>This webiste was created with Vanilla JS, HTML & CSS. Hosted on hostinger.</p>
+        <br />
+        <div className="is-flex-direction-column">
+          <div className="is-flex">
+            <a href="https://aristoski.co.uk" rel="noreferrer" target="_blank">
+              <SiGithub className="projectLink" />
+            </a>
+            <p className="linkLabel">See my approach</p>
+          </div>
+          <br />
+          <div className="is-flex">
+            <a href="https://github.com/geraldc118/password_generator" rel="noreferrer" target="_blank"> 
+              <FaRocket className="projectLink" />
+            </a>
+            <p className="linkLabel">See it live</p>
+          </div>
+        </div>
+      </div>
+    </section>
           {/* Trafalgar Enterprises */}
     <section id="trafalgar_enterprises" className="columns is-vcentered">
       <div className="projectImg column is-one-third">
@@ -27,7 +56,7 @@ export default function Projects() {
         <hr className="projectRule" />
         <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
         <br />
-        <p>This is a solo project I created using React, useState, Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
+        <p>I created using React, Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
         <br />
         <div className="is-flex-direction-column">
           <div className="is-flex">
@@ -56,7 +85,7 @@ export default function Projects() {
         <hr className="projectRule" />
         <p>Tricknastics is a mobile first, full stack app formed of a React.js frontend and a nodeJs backend talking to a Mailchimp API. Users can sign up to the Tricknastics mailing list where they gain access to more content.</p>
         <br />
-        <p>Working across the full stack I used mailchimp Api to capture customers data and use this to create tailored communications between selected groups.</p>
+        <p>I used mailchimp Api to capture customers data and use this to create tailored communications between selected groups.</p>
         <br />
         <div className="is-flex-direction-column">
           <div className="is-flex">
@@ -140,33 +169,6 @@ export default function Projects() {
     </section>
      
      {/* Password Generator */}
-     <section id="password_generator" className="columns is-vcentered">
-      <div className="projectImg column is-one-third">
-        <img className="password_generator" src={pyGen} alt="password_generator"/>
-      </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
-        <h2 className="projectsTitle ">Password Generator: PassGen</h2>
-        <hr className="projectRule" />
-        <p>Passgen generates passwords with a users inputted amount of letters, numbers and symbols and then randomizes all the characters.</p>
-        <br />
-        <p>I created this project with Python, using lists and the random module to generate random places for the characters in the generated password.</p>
-        <br />
-        <div className="is-flex-direction-column">
-          <div className="is-flex">
-            <a href="https://github.com/geraldc118/password_generator" rel="noreferrer" target="_blank">
-              <SiGithub className="projectLink" />
-            </a>
-            <p className="linkLabel">See my approach</p>
-          </div>
-          <br />
-          <div className="is-flex">
-            <a href="https://github.com/geraldc118/password_generator" rel="noreferrer" target="_blank"> 
-              <FaRocket className="projectLink" />
-            </a>
-            <p className="linkLabel">See it live</p>
-          </div>
-        </div>
-      </div>
-    </section>
+     
   </section >
 }

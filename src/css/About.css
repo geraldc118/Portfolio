@@ -1,10 +1,11 @@
-.title{
-    color: white;
-    font-size: 8rem;
-    padding-top: 20rem;
-    margin-bottom: 0;
+.aboutTitle{
+    font-size: 3rem;
+    font-weight:600;
+    padding-top: 1.5rem;
     text-align: center;
-}
+    position: relative;
+    top: 0px;
+    }
 
 .center{
     display: block;
@@ -30,18 +31,6 @@
   justify-content: center; 
 }
 
-.profileImgContainer{
-  height: 600px;
-  width: 600px;
-  margin-left:auto;
-  margin-right:auto;
-  margin-bottom: 0.75rem;
-}
-
-.profile_img{
-    height: 300px;
-    width: 300px;
-}
 
 
 .interestsButton{

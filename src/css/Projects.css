@@ -16,7 +16,8 @@
 }
 
 .toDoListImage{
-  height: 350px;
+  height: 100%;
+  width: 100%;
 }
 
 .trafalgar_img{
@@ -24,11 +25,16 @@
   width: 400px;
 }
 
-#tricknastics, #codingBlogger, #toDoList, #password_generator, #trafalgar_enterprises{
+.aristoski{
+  height: 100%;
+  width: 100%;
+}
+
+#tricknastics, #codingBlogger, #toDoList, #aristoski, #trafalgar_enterprises{
   background-color: white;
   border-radius: 25px;
-  margin:40px;
-  padding: 40px;
+  margin:10px;
+  padding: 30px; 
 }
 
 .projectRule{

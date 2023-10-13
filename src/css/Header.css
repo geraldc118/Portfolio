@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-.header{
+header{
     color:white;
     display: flex;
     flex-direction: column;
@@ -11,15 +11,24 @@
     font-size: 7rem;
 }
 
+.profileImgContainer{
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.profile_img{
+    height: 300px;
+    width: 300px;
+}
+
 .heroTitle{
     font-size: 30rem;
     padding-top: 20rem;
-
 }
 
 .subtitle{
     font-size: 3rem;
-    padding-bottom:25rem;;
+    padding-bottom:5rem;;
 }
 
 .hero-body{

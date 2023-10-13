@@ -1,6 +1,5 @@
 import React from 'react'
 import { useState } from 'react'
-import profilePic from '../Images/geralds_profile.png'
 import Skills from '../Components/Skills'
 import Interests from './Interests'
 import '../css/About.css'
@@ -11,7 +10,7 @@ export default function About() {
   return <section id="about" className="section">
     <div /*about section container*/>
       <div>
-        <h1 className="has-text-white has-text-centered title is-1">ABOUT</h1>
+        <h1 className="has-text-white has-text-centered aboutTitle">ABOUT</h1>
       </div>
       <div>
       </div>
@@ -25,10 +24,6 @@ export default function About() {
             <p>I work with Javascript & Python with knowledge in both front front/back end. And have developed websites for companies and friends.</p>
             <br />
             <p>I'm looking to transition into a into a full time developer. Working in a collaborative team where I can learn from others, add value and create exciting projects.</p>
-          </div>
-
-          <div className="column is-one-third profileImgContainer">
-            <img id="profile" className="profile_img" src={profilePic} alt="profilePic"/>
           </div>
         </div>
       </div>
