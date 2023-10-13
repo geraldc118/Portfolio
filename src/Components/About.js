@@ -17,9 +17,7 @@ export default function About() {
       <div className="aboutTextImgContainer">
         <div className="columns has-text-white is-vcentered is-centered">
           <div className="column is-two-thirds">
-            <p>Hi 👋  I'm Gerald. I'm a hobby developer seeking a role as a junior developer.</p>
-            <br />
-            <p>I work with Javascript & Python with knowledge in both front/back end.</p>
+            <p>Hi 👋  I'm Gerald. I'm a hobby developer seeking a role as a junior developer. Working with Javascript & Python with knowledge in both front/back end.</p>
             <br />
             <p>I'm looking to transition into a full stack role. Working in a collaborative team where I can learn from others, add value and create exciting projects.</p>
             <br />
