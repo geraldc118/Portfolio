@@ -22,13 +22,15 @@ export default function About() {
             <p>I work with Javascript & Python with knowledge in both front/back end.</p>
             <br />
             <p>I'm looking to transition into a full stack role. Working in a collaborative team where I can learn from others, add value and create exciting projects.</p>
+            <br />
+            <p>Have a look at the projects I have developed and visit my github to see how I did it. </p>
           </div>
         </div>
       </div>
 
-      <div className="has-text-centered mt-3">
+      {/* <div className="has-text-centered mt-3">
         <button onClick={() => showInterests(!interests)} className="button has-text-white mb-4" >Tell me more</button>
-      </div>
+      </div> */}
       <div style={{ display: interests ? '' : 'none' }} >
         <Interests />
       </div>
