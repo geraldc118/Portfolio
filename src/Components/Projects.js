@@ -20,7 +20,7 @@ export default function Projects() {
       <div className="projectImg column is-one-third">
         <img className="aristoski" src={aristoski} alt="aristoski_logo"/>
       </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+      <div className="column card-content is-two-thirds projectSpiel">
         <h2 className="projectsTitle">Aristoski Website</h2>
         <hr className="projectRule"/>
         <p>This is an artist page for rapper Aristoski who wanted a page to display his upcoming release.</p>
@@ -51,7 +51,7 @@ export default function Projects() {
         <img className="trafalgar_img" src={Trafalgar} alt="trafalgar_enterprises"/>
       </figure>
       </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+      <div className="column card-content is-two-thirds  projectSpiel">
         <h2 className="projectsTitle ">Trafalgar Enterprises</h2>
         <hr className="projectRule" />
         <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
@@ -80,7 +80,7 @@ export default function Projects() {
       <div className="projectImg column is-one-third">
         <img className="TnAcademy" src={Tricknastics} alt="tricknastis_logo"/>
       </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+      <div className="column card-content is-two-thirds projectSpiel">
         <h2 className="projectsTitle">Tricknastics: Landing Page</h2>
         <hr className="projectRule" />
         <p>Tricknastics is a mobile first, full stack app formed of a React.js frontend and a nodeJs backend talking to a Mailchimp API. Users can sign up to the Tricknastics mailing list where they gain access to more content.</p>
@@ -111,7 +111,7 @@ export default function Projects() {
           <img className="codingBloggerImage" src={codingBloggerImage} alt="codingBlogImage"/>
         </figure>
       </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+      <div className="column card-content is-two-thirds projectSpiel">
         <h2 className="projectsTitle ">Coding Blogger</h2>
         <hr className="projectRule" />
         <p>Coding Blogger is a responsive, full stack app formed of a Javascript, EJS frontend and a nodeJs backend talking to a Mongodb Database. Users can view posts from the blog, each post shows a preview and has the function to open the content in another window.</p>
@@ -142,7 +142,7 @@ export default function Projects() {
         <img className="toDoListImage" src={toDoListImage} alt="toDoListImage"/>
       </figure>
       </div>
-      <div className="column card-content is-two-thirds has-text-justified projectSpiel">
+      <div className="column card-content is-two-thirds projectSpiel">
         <h2 className="projectsTitle ">To-Do List</h2>
         <hr className="projectRule" />
         <p>To-Do List is a responsive, full stack app formed of a Javascript, EJS frontend and a nodeJs backend talking to a Mongodb Database. </p>
