@@ -54,9 +54,9 @@ export default function Projects() {
       <div className="column card-content is-two-thirds  projectSpiel">
         <h2 className="projectsTitle ">Trafalgar Enterprises</h2>
         <hr className="projectRule" />
-        <p>Trafalgar enterprises is a company selling and converting conatiners for sale.</p>
+        <p>Trafalgar enterprises is a company selling and converting containers for sale.</p>
         <br />
-        <p>I created using React, Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.  </p>
+        <p>I created using React, Bulma, react-bootstrap, react-icons for styling, The site is hosted on a heroku server.</p>
         <br />
         <div className="is-flex-direction-column">
           <div className="is-flex">
