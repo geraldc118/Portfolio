@@ -1,0 +1,24 @@
+.footerBackground{
+    margin-top: 20px;
+    padding-top: 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.footerHolder{
+    justify-content: center;
+    align-items: center;
+}
+
+.subHeading{
+    font-weight: 500;
+}
+
+.footerIcon{
+    /* margin-top: 10px; */
+    /* margin-bottom: 15px; */
+    font-size: 30px;
+    padding: 15px;
+    color: white;
+}

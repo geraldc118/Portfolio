@@ -1,0 +1,25 @@
+.projectHolder{
+    text-align: center;
+}
+
+.projectTitle{
+    display:flex ;
+    align-items: start;
+}
+.card{
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+.card-img-top{
+    padding: 15px;
+}
+
+.projectBtn{
+    margin-left: 20px;
+}
+
+.projectImg{
+    width: 100%;
+    height: 400px;
+}
