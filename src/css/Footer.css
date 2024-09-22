@@ -1,0 +1,17 @@
+.footer {
+    background-color: transparent;
+    height: 80px;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    top: 0px;
+}
+.ico{
+display: flex;
+padding-top:7px;
+align-items: center;
+font-size: 7rem;
+cursor: pointer;
+padding: 2px 6px 0px 6px;
+}
