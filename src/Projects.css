@@ -5,10 +5,13 @@
 .projectTitle{
     display:flex ;
     align-items: start;
+    background-color: white;
+    padding: 10px;
+    margin-top: 15px;
 }
 .card{
-    margin-top: 10px;
     border-radius: 15px;
+    margin-bottom: 20px;
 }
 
 .card-img-top{
@@ -20,6 +23,6 @@
 }
 
 .projectImg{
-    width: 100%;
+    width: 200px;
     height: 400px;
 }

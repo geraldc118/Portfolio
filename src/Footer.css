@@ -18,7 +18,11 @@
 .footerIcon{
     /* margin-top: 10px; */
     /* margin-bottom: 15px; */
-    font-size: 30px;
+    font-size: 35px;
     padding: 15px;
     color: white;
+}
+
+.footerIcon:hover{
+    color: blueviolet;
 }
