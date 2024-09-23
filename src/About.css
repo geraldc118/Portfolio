@@ -11,6 +11,12 @@
     margin-bottom: 10px;
 }
 
+@media (max-width:767px){
+    .containerBackground{
+        text-align: center;
+    }
+}
+
 .subHeading{
     margin-top: 20px;
     margin-bottom: 10px;

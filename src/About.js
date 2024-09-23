@@ -1,5 +1,6 @@
 import React from 'react';
-import profilePic from './Images/portfolioBanner.png';
+import headImage from './Images/portfolioBanner.png';
+import profilePic from './Images/geralds_profile.png';
 import "./About.css";
 import Projects from './Projects';
 
@@ -9,13 +10,14 @@ function About(){
         <div className="row">
             <div className="col-12">
                 {/* <h1 className='headTitle'>Software Developer</h1> */}
-                <img src={profilePic} alt="Profile" className="profileImg img-fluid" />
+                <img src={headImage} alt="Profile" className="profileImg img-fluid" />
             </div>
         </div>
         <div className="row">
             <div className="col-md-4 col-sm-12">
                 {/* Contact Details */}
                 <div className='containerBackground' id='contact'>
+                <img src={profilePic} alt="Profile" className="profileImg" />
                     <h3 className='subHeading'>Contact Details</h3>
                     <p>Bexley, London UK</p>
                     <i className="aboutIcon fa-regular fa-envelope"></i><a className='contactLink' href='mailto:geraldcameron118@gmail.com'> Geraldcameron118@gmail.com</a>
