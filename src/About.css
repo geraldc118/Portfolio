@@ -38,10 +38,17 @@
     color: blueviolet;
 }
 
-.profileImg{
-    height: 200px;
+.headImg{
     margin-top: 10px;
     margin-bottom:20px;
+}
+
+.profileImg{
+    margin-top: 10px;
+    margin-bottom:20px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
 }
 
 .skillsList {

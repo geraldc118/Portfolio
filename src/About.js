@@ -1,6 +1,6 @@
 import React from 'react';
 import headImage from './Images/portfolioBanner.png';
-import profilePic from './Images/geralds_profile.png';
+import profilePic from './Images/cv profile pic .jpeg';
 import "./About.css";
 import Projects from './Projects';
 
@@ -10,7 +10,7 @@ function About(){
         <div className="row">
             <div className="col-12">
                 {/* <h1 className='headTitle'>Software Developer</h1> */}
-                <img src={headImage} alt="Profile" className="profileImg img-fluid" />
+                <img src={headImage} alt="Profile" className="headImg img-fluid" />
             </div>
         </div>
         <div className="row">
