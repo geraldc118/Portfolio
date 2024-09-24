@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5f54142b.css",
-    "main.js": "/Portfolio/static/js/main.1f684547.js",
+    "main.css": "/Portfolio/static/css/main.90a51163.css",
+    "main.js": "/Portfolio/static/js/main.c4b1cb1b.js",
     "static/media/portfolioBanner.png": "/Portfolio/static/media/portfolioBanner.cb4f6fb27a9dd449d5d3.png",
     "static/media/aristoski_Logo.jpg": "/Portfolio/static/media/aristoski_Logo.0273a6808b6f245e1e6e.jpg",
     "static/media/Pristine Housing Solutions Logo.jpg": "/Portfolio/static/media/Pristine Housing Solutions Logo.97f4a2cb301201248540.jpg",
-    "static/media/geralds_profile.png": "/Portfolio/static/media/geralds_profile.d56143524f198c1f826a.png",
+    "static/media/cv profile pic .jpeg": "/Portfolio/static/media/cv profile pic .824fa0416684a1f0fbf2.jpeg",
     "static/media/4 Wheel logo smaller.png": "/Portfolio/static/media/4 Wheel logo smaller.28686b796e74a58ca009.png",
     "index.html": "/Portfolio/index.html",
-    "main.5f54142b.css.map": "/Portfolio/static/css/main.5f54142b.css.map",
-    "main.1f684547.js.map": "/Portfolio/static/js/main.1f684547.js.map"
+    "main.90a51163.css.map": "/Portfolio/static/css/main.90a51163.css.map",
+    "main.c4b1cb1b.js.map": "/Portfolio/static/js/main.c4b1cb1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f54142b.css",
-    "static/js/main.1f684547.js"
+    "static/css/main.90a51163.css",
+    "static/js/main.c4b1cb1b.js"
   ]
 }
