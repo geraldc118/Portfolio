@@ -14,15 +14,18 @@
     margin-bottom: 20px;
 }
 
-.card-img-top{
-    padding: 15px;
-}
-
 .projectBtn{
     margin-left: 20px;
 }
 
+.imgHolder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .projectImg{
-    width: 200px;
+    padding: 15px;
     height: 400px;
+    width: 100%;
 }

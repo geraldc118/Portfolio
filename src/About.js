@@ -1,5 +1,5 @@
 import React from 'react';
-import headImage from './Images/portfolioBanner.png';
+import headImage from './Images/Portfolio banner.png';
 import profilePic from './Images/cv profile pic .jpeg';
 import "./About.css";
 import Projects from './Projects';
