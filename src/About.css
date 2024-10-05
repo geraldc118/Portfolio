@@ -11,12 +11,6 @@
     margin-bottom: 10px;
 }
 
-@media (max-width:767px){
-    .containerBackground{
-        text-align: center;
-    }
-}
-
 .subHeading{
     margin-top: 20px;
     margin-bottom: 10px;
@@ -69,4 +63,28 @@
     margin-top: 20px;
     border: solid 2px black;
     border-radius: 5px;
+}
+
+/* Mobile*/
+@media (max-width:767px){
+    .containerBackground{
+        text-align: center;
+    }
+
+    .profileImg{
+        height: 250px;
+        width: 250px;
+    }
+}
+
+/* Tablets */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .containerBackground{
+        text-align: center;
+    }
+
+    .profileImg{
+        height: 250px;
+        width: 250px;
+    }
 }

@@ -12,7 +12,7 @@ function Projects() {
         <div className="card">
           <h3 className="projectTitle">Projects</h3>
           <div className="row justify-content-center">
-            <div className="col-md-8">
+            <div className="col-md-8 col-sm-12">
               <div className="imgHolder">
                 <img src={pristinehousing} className="projectImg" alt="Project 1" />
               </div>
@@ -42,10 +42,11 @@ function Projects() {
             <h5 className="card-title">4 Wheel Barbers</h5>
             <p className="card-text">4 Wheel Barbers is a sleek website for a mobile barbershop, 
               offering easy access to services, bookings, and contact details. 
-              The responsive design ensures a smooth experience on any device.</p>
-              <a href="https://4wheelbarbers.co.uk/" className="projectBtn btn btn-primary">View Project</a>
-              <a href="https://github.com/geraldc118/4wheelbarbers" className="projectBtn btn btn-primary">View Code</a>
-              </div>
+              The responsive design ensures a smooth experience on any device.
+            </p>
+            <a href="https://4wheelbarbers.co.uk/" className="projectBtn btn btn-primary">View Project</a>
+            <a href="https://github.com/geraldc118/4wheelbarbers" className="projectBtn btn btn-primary">View Code</a>
+            </div>
         </div>
       </div>
 
@@ -63,9 +64,9 @@ function Projects() {
             <h5 className="card-title">Aristoski Artist Page</h5>
             <p className="card-text">Aristoski.co.uk is a modern website built with React and hosted on Hostinger. 
               It features a sleek design and responsive layout, providing a seamless user experience across all devices.</p>
-              <a href="https://aristoski.co.uk/" className="projectBtn btn btn-primary">View Project</a>
-              <a href="https://github.com/geraldc118/aristoski-artist" className="projectBtn btn btn-primary">View Code</a>
-              </div>
+            <a href="https://aristoski.co.uk/" className="projectBtn btn btn-primary">View Project</a>
+            <a href="https://github.com/geraldc118/aristoski-artist" className="projectBtn btn btn-primary">View Code</a>
+          </div>
         </div>
       </div>
 

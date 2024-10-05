@@ -14,7 +14,7 @@ function About(){
             </div>
         </div>
         <div className="row">
-            <div className="col-md-4 col-sm-12">
+            <div className="col-lg-4 col-md-12">
                 {/* Contact Details */}
                 <div className='containerBackground' id='contact'>
                 <img src={profilePic} alt="Profile" className="profileImg" />
@@ -85,7 +85,7 @@ function About(){
                     </ul>
                 </div>
             </div>
-            <div className='col-md-8'>
+            <div className='col-lg-8 col-md-12'>
                 <Projects />
             </div>
         </div>
