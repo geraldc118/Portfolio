@@ -55,6 +55,27 @@ function Projects() {
       <div className="col-md-12">
         <div className="card">
           <div className="row justify-content-center">
+            <div className="col-md-8 col-sm-12">
+              <div className="imgHolder">
+                <img src={pristinehousing} className="projectImg" alt="Project 1" />
+              </div>
+            </div>
+          </div>
+          <div className="card-body">
+            <h5 className="card-title">Pristine Housing Solutions</h5>
+            <p className="card-text">I created PristineHousingSolutions.uk for my business using React, and it's hosted on Hostinger.</p>
+            <a href="https://pristinehousingsolutions.uk/" className="projectBtn btn btn-primary">View Project</a>
+            <a href="https://github.com/geraldc118/pristine-housing-solutions" className="projectBtn btn btn-primary">View Code</a>
+          </div>
+        </div>
+      </div>
+
+
+    
+      {/* Project 4*/}
+      <div className="col-md-12">
+        <div className="card">
+          <div className="row justify-content-center">
             <div className="col-md-8">
               <div className="imgHolder">
                 <img src={aristoski_logo} className="projectImg" alt="Project 3" />
@@ -67,27 +88,6 @@ function Projects() {
               It features a sleek design and responsive layout, providing a seamless user experience across all devices.</p>
             <a href="https://aristoski.co.uk/" className="projectBtn btn btn-primary">View Project</a>
             <a href="https://github.com/geraldc118/aristoski-artist" className="projectBtn btn btn-primary">View Code</a>
-          </div>
-        </div>
-      </div>
-
-
-    
-      {/* Project 4*/}
-      <div className="col-md-12">
-        <div className="card">
-          <div className="row justify-content-center">
-            <div className="col-md-8 col-sm-12">
-              <div className="imgHolder">
-                <img src={pristinehousing} className="projectImg" alt="Project 1" />
-              </div>
-            </div>
-          </div>
-          <div className="card-body">
-            <h5 className="card-title">Pristine Housing Solutions</h5>
-            <p className="card-text">I created PristineHousingSolutions.uk for my business using React, and it's hosted on Hostinger.</p>
-            <a href="https://pristinehousingsolutions.uk/" className="projectBtn btn btn-primary">View Project</a>
-            <a href="https://github.com/geraldc118/pristine-housing-solutions" className="projectBtn btn btn-primary">View Code</a>
           </div>
         </div>
       </div>
