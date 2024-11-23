@@ -3,6 +3,7 @@ import "./Projects.css";
 import aristoski_logo from './Images/aristoski_Logo.jpg'
 import wheelLogo from './Images/4 Wheel logo smaller.png'
 import pristinehousing from './Images/pristine housing solutions logo.png';
+import GetLogo from './Images/GET Logo.JPG';
 
 function Projects() {
   return(
@@ -14,15 +15,15 @@ function Projects() {
           <div className="row justify-content-center">
             <div className="col-md-8 col-sm-12">
               <div className="imgHolder">
-                <img src={pristinehousing} className="projectImg" alt="Project 1" />
+                <img src={GetLogo} className="projectImg" alt="Project 1" />
               </div>
             </div>
           </div>
           <div className="card-body">
-            <h5 className="card-title">Pristine Housing Solutions</h5>
-            <p className="card-text">I created PristineHousingSolutions.uk for my business using React, and it's hosted on Hostinger.</p>
-            <a href="https://pristinehousingsolutions.uk/" className="projectBtn btn btn-primary">View Project</a>
-            <a href="https://github.com/geraldc118/pristine-housing-solutions" className="projectBtn btn btn-primary">View Code</a>
+            <h5 className="card-title">Get Damp Proofing</h5>
+            <p className="card-text">A clean and accessible website for Get Damp Proofing, showcasing professional damp proofing services and offering easy access to contact details and expertise.</p>
+            <a href="https://getdampproofing.co.uk/" className="projectBtn btn btn-primary">View Project</a>
+            <a href="https://github.com/geraldc118/getdampproofing" className="projectBtn btn btn-primary">View Code</a>
           </div>
         </div>
       </div>
@@ -73,6 +74,23 @@ function Projects() {
 
     
       {/* Project 4*/}
+      <div className="col-md-12">
+        <div className="card">
+          <div className="row justify-content-center">
+            <div className="col-md-8 col-sm-12">
+              <div className="imgHolder">
+                <img src={pristinehousing} className="projectImg" alt="Project 1" />
+              </div>
+            </div>
+          </div>
+          <div className="card-body">
+            <h5 className="card-title">Pristine Housing Solutions</h5>
+            <p className="card-text">I created PristineHousingSolutions.uk for my business using React, and it's hosted on Hostinger.</p>
+            <a href="https://pristinehousingsolutions.uk/" className="projectBtn btn btn-primary">View Project</a>
+            <a href="https://github.com/geraldc118/pristine-housing-solutions" className="projectBtn btn btn-primary">View Code</a>
+          </div>
+        </div>
+      </div>
 
     </div>
     )
