@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.779554a9.css",
-    "main.js": "/Portfolio/static/js/main.81411642.js",
+    "main.css": "/Portfolio/static/css/main.16e3d789.css",
+    "main.js": "/Portfolio/static/js/main.401c9aa1.js",
     "static/media/Portfolio banner.png": "/Portfolio/static/media/Portfolio banner.b6eb1e8a9b66df570402.png",
     "static/media/aristoski_Logo.jpg": "/Portfolio/static/media/aristoski_Logo.0273a6808b6f245e1e6e.jpg",
     "static/media/cv profile pic .jpeg": "/Portfolio/static/media/cv profile pic .824fa0416684a1f0fbf2.jpeg",
@@ -9,11 +9,11 @@
     "static/media/4 Wheel logo smaller.png": "/Portfolio/static/media/4 Wheel logo smaller.28686b796e74a58ca009.png",
     "static/media/pristine housing solutions logo.png": "/Portfolio/static/media/pristine housing solutions logo.826251b3f8b1015ccaab.png",
     "index.html": "/Portfolio/index.html",
-    "main.779554a9.css.map": "/Portfolio/static/css/main.779554a9.css.map",
-    "main.81411642.js.map": "/Portfolio/static/js/main.81411642.js.map"
+    "main.16e3d789.css.map": "/Portfolio/static/css/main.16e3d789.css.map",
+    "main.401c9aa1.js.map": "/Portfolio/static/js/main.401c9aa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.779554a9.css",
-    "static/js/main.81411642.js"
+    "static/css/main.16e3d789.css",
+    "static/js/main.401c9aa1.js"
   ]
 }
