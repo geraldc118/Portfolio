@@ -35,7 +35,6 @@ function About(){
                     <p>Prior to my coding career, I coached gymnastics, which has nurtured my love for sports and helping others achieve their potential. Now, I channel that same dedication into building quality software solutions.</p>
                 </div>
 
-                
                 {/* Work history  */}
                 <div className='containerBackground'>
                     <h3 className='subHeading'>Work History </h3>
@@ -85,9 +84,10 @@ function About(){
                     </ul>
                 </div>
             </div>
-            <div className='col-lg-8 col-md-12'>
-                <Projects />
-            </div>
+                {/* Projects */}
+                <div className='col-lg-8 col-md-12'>
+                    <Projects />
+                </div>
         </div>
     </div>
     )
